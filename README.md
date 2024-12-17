@@ -1,4 +1,4 @@
-# README: Library Management System
+# Library Management System
 
 ## Overview
 This is a simple Library Management System implemented in Python. The system allows users to view book details, interact with the library, and navigate through options like continuing or exiting.
