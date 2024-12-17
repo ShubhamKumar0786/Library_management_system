@@ -34,7 +34,7 @@ This is a simple Library Management System implemented in Python. The system all
 Welcome to Skill Circle learning Management System
    ```
 
-2. **Book Details**
+2. Book Details
    ```
 Book Title : Indian Society
 Book Author: SC Dube
@@ -43,7 +43,7 @@ Book Launch : 1990
 Book Description : This 1990 book examines the evolution of Indian society, including its diversity, unity.
    ```
 
-3. **User Options**:
+3. User Options:
    - Press `1` to continue viewing books.
    - Press `2` to exit the system.
    ## 👨‍💻 Developer
