@@ -51,7 +51,7 @@ Book Description : This 1990 book examines the evolution of Indian society, incl
 - **Shubham Kumar**  
 - 🌐 [GitHub Profile](https://github.com/ShubhamKumar0786)  
 - 📧 Email: shubhamkashyap9501@email.com  
-- Linkedin : https://www.linkedin.com/in/shubham9797/
+- **LinkedIn:** [Shubham_Kumar](https://www.linkedin.com/in/shubham0786/)
 
 
 
